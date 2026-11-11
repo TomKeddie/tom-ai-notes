@@ -12,4 +12,5 @@ If there is a screenshot of the dash showing the entertainment system please inc
 If there is a screenshot of the dash showing the instruments please include it in the spreadsheet.
 Please use numbers for the price and odometer columns
 Please sort by price with lowest first.
+Please make sure the links work.
 ```
