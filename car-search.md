@@ -7,6 +7,8 @@ If there is a screenshot of the dash showing the instruments please include it i
 Please use numbers for the price and odometer columns
 Please sort by price with lowest first.
 Please make sure the links work.
+Please hide rows that you think are duplicates.
+Please include a column containing any messages with the seller.
 ```
 ```
 Search craiglist for Nissan Leaf cars for sale under $10000 within 40kms of V5K.  
